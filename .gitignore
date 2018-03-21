@@ -58,3 +58,4 @@ typings/
 .env
 
 rtest.js
+.idea
